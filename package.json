@@ -13,9 +13,11 @@
   "author": "Brian Miller",
   "license": "MIT",
   "dependencies": {
+    "deck-of-cards": "^0.1.8",
     "express": "^4.16.3",
     "react": "^16.3.1",
-    "react-dom": "^16.3.1"
+    "react-dom": "^16.3.1",
+    "socket.io": "^2.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
